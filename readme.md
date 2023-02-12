@@ -1,1 +1,1 @@
-# Namste React-Bootcamp
+# Namaste React-Bootcamp
